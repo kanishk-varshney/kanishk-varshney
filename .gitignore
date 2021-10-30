@@ -1,0 +1,8 @@
+local.rb
+.DS_Store
+.byebug_history
+.idea/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
