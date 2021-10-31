@@ -39,7 +39,12 @@
 -->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 Blogs
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Python Is Fun: Tricks of the Trade](https://kanishkvarshney.medium.com/fun-with-python-88d599ac07e1?source=rss-f03eab685dc5------2)
+- [Python Documentation: Generating HTML using Sphinx](https://kanishkvarshney.medium.com/python-documentation-generating-html-using-sphinx-a0d909f5e963?source=rss-f03eab685dc5------2)
+- [Python Documentation: Getting Started](https://kanishkvarshney.medium.com/python-documentation-getting-started-141f077b1b92?source=rss-f03eab685dc5------2)
+- [Hosting your Flask Web Application on GoDaddy](https://kanishkvarshney.medium.com/hosting-your-flask-web-application-on-godaddy-5628a60e7151?source=rss-f03eab685dc5------2)
+<!-- BLOG-POST-LIST:END -->
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
