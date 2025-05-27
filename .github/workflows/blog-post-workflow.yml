@@ -1,8 +1,14 @@
 name: Latest blog post workflow
 on:
+  push:
+    paths: 
+      - 'README.md'
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 0 * * 1' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+permissions:
+  contents: write # Needed to commit changes to README
 
 jobs:
   update-readme-with-blog:
@@ -10,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
