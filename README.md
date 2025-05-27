@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <!-- INTRO: NAME -->
-<div style="font-family: 'Fira Code', monospace;">
+<div style="text-align: center ; font-family: 'Fira Code', monospace;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&center=true&vCenter=true&width=435&lines=Kanishk+Varshney)](https://git.io/typing-svg)
 
@@ -136,16 +136,21 @@
     </tr>
   </table>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kanishk-varshney&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/kanishk-varshney)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kanishk-varshney&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/kanishk-varshney/)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanishk-varshney&&column=8&margin-w=20&margin-h=20&no-frame=true&theme=nord)](https://github.com/kanishk-varshney/)
 
 [![committers.top badge](https://user-badge.committers.top/india/kanishk-varshney.svg)](https://user-badge.committers.top/india/kanishk-varshney)
+
 </div>
 
 <a href="https://github.com/kanishk-varshney">
-<img src="https://media1.tenor.com/m/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+<img src="https://media1.tenor.com/m/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="1px"/>
 </a>
+
+<br/>
 
 <!-- FUN ELEMENTS SECTION -->
 <div align="center">
