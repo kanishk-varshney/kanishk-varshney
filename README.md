@@ -49,10 +49,11 @@
 #### 📝 Recent Writings [Read more...](https://kanishkvarshney.medium.com)
 
 <!-- BLOG-POST-LIST:START -->
-[Python Is Fun: Tricks of the Trade](https://kanishkvarshney.medium.com/fun-with-python-88d599ac07e1?source=rss-f03eab685dc5------2)<br/>
-[Python Documentation: Generating HTML using Sphinx](https://kanishkvarshney.medium.com/python-documentation-generating-html-using-sphinx-a0d909f5e963?source=rss-f03eab685dc5------2)<br/>
-[Python Documentation: Getting Started](https://kanishkvarshney.medium.com/python-documentation-getting-started-141f077b1b92?source=rss-f03eab685dc5------2)<br/>
-[Hosting your Flask Web Application on GoDaddy](https://kanishkvarshney.medium.com/hosting-your-flask-web-application-on-godaddy-5628a60e7151?source=rss-f03eab685dc5------2)<br/>
+- [Codyssey Unveiled: Embark on Your Journey to Coding Excellence](https://medium.com/codyssey/codyssey-unveiled-embark-on-your-journey-to-coding-excellence-597a854ec51b?source=rss-f03eab685dc5------2)
+- [Parallelization in Python](https://kanishkvarshney.medium.com/parallelization-in-python-32d2add653f?source=rss-f03eab685dc5------2)
+- [Geospatial Image Co-registration: Part-1](https://kanishkvarshney.medium.com/geospatial-image-co-registration-part-1-cfdc0f8f853d?source=rss-f03eab685dc5------2)
+- [Python Is Fun: Tricks of the Trade](https://kanishkvarshney.medium.com/fun-with-python-88d599ac07e1?source=rss-f03eab685dc5------2)
+- [Python Documentation: Generating HTML using Sphinx](https://kanishkvarshney.medium.com/python-documentation-generating-html-using-sphinx-a0d909f5e963?source=rss-f03eab685dc5------2)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
